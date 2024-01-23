@@ -1,7 +1,7 @@
 # Spotify-Premium-for-PC
 # Spotify Premium Automation
 
-![Spotify Logo](link-to-your-logo-image)
+![Spotify Logo](spotify.png)
 
 ## Introduction
 
