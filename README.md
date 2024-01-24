@@ -45,6 +45,8 @@ To use this software, follow these steps:
 This project is licensed under the GPL General Public License v3.0 License
 
   ・Educational purpose only and all your consequences caused by you actions is your responsibility
+
   ・Selling this Free Tool is forbidden
+
   ・If you make a copy of this/or fork it, it must be open-source and have credits linking to this repo
 
