@@ -22,7 +22,7 @@ This repository contains scripts and automation tools related to Spotify Premium
 ## Getting Started
 
 
-## Installation
+## 🚀・ Installation
 
 To use this software, follow these steps:
 
@@ -38,9 +38,9 @@ To use this software, follow these steps:
 
 4. That's it! Your software is now installed and ready to use.
 
-## Note: Ensure that you download the executable file from the latest release for the best performance and to access the most up-to-date features.
+## ⚠️・Note: Ensure that you download the executable file from the latest release for the best performance and to access the most up-to-date features.
 
-## License
+## 📄・ License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
