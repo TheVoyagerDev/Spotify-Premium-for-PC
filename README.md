@@ -1,7 +1,7 @@
 # Spotify-Premium-for-PC
 # Spotify Premium Automation
 
-🎵 Install --> [Releases](https://github.com/PollarJay/Spotify-Premium-for-PC/releases)
+🎵 Install --> [Releases](https://github.com/TheVoyagerDev/Spotify-Premium-for-PC/releases)
 
 ![Spotify Logo](spotify.png)
 
