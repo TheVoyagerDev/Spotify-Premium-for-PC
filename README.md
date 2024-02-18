@@ -43,7 +43,7 @@ To use this software, follow these steps:
 
 ## ⚠️・Note: Ensure that you download the executable file from the latest release for the best performance and to access the most up-to-date features.
 
-## 📄・ License
+## 📄 License
 
 This project is licensed under the GPL General Public License v3.0 License
 
