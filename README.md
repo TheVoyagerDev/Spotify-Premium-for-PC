@@ -39,7 +39,7 @@ To use this software, follow these steps:
 
 3. Once the download is complete, run the executable file just like you would with any other software installation. Follow any on-screen instructions for setup.
 
-4. That's it! Your software is now installed and ready to use.
+4. That's it!Your software is now installed and ready to use.
 
 ## ⚠️・Note: Ensure that you download the executable file from the latest release for the best performance and to access the most up-to-date features.
 
